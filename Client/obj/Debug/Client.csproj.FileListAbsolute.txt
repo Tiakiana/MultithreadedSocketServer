@@ -1,0 +1,12 @@
+C:\Users\Nez\Documents\Visual Studio 2015\Projects\SocketServer\Client\bin\Debug\Client.exe.config
+C:\Users\Nez\Documents\Visual Studio 2015\Projects\SocketServer\Client\bin\Debug\Client.exe
+C:\Users\Nez\Documents\Visual Studio 2015\Projects\SocketServer\Client\bin\Debug\Client.pdb
+C:\Users\Nez\Documents\Visual Studio 2015\Projects\SocketServer\Client\bin\Debug\ServerData.dll
+C:\Users\Nez\Documents\Visual Studio 2015\Projects\SocketServer\Client\bin\Debug\ServerData.pdb
+C:\Users\Nez\Documents\Visual Studio 2015\Projects\SocketServer\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Nez\Documents\Visual Studio 2015\Projects\SocketServer\Client\obj\Debug\Client.exe
+C:\Users\Nez\Documents\Visual Studio 2015\Projects\SocketServer\Client\obj\Debug\Client.pdb
+C:\Users\Nez\Documents\Visual Studio 2015\Projects\SocketServer\Client\bin\Debug\Client.exe.manifest
+C:\Users\Nez\Documents\Visual Studio 2015\Projects\SocketServer\Client\bin\Debug\Client.application
+C:\Users\Nez\Documents\Visual Studio 2015\Projects\SocketServer\Client\obj\Debug\Client.exe.manifest
+C:\Users\Nez\Documents\Visual Studio 2015\Projects\SocketServer\Client\obj\Debug\Client.application
